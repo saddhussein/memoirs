@@ -18,23 +18,11 @@ $enable-rounded: false;
 
 // general
 body, input, button, select, optgroup, textarea {   
-    font-family:Merriweather;
+    font-family:Helvetica;
 }
 body {
     line-height:2.0;
     background: #f4f4f4;
-}
-
-/* Default font size */
-body {
-    font-size: 18px;
-}
-
-/* Responsive font size for smaller screens */
-@media screen and (max-width: 768px) {
-    body {
-        font-size: 16px;
-    }
 }
 
 a {
