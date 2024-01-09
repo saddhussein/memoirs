@@ -2,7 +2,7 @@
 layout: post
 title:  "CHPTR 1: Hutan"
 author: sal
-categories: [ Cerita ]
+categories: [ Karya ]
 tags: [ Serial Rimba ]
 image: "https://saddamaddas.files.wordpress.com/2016/03/fog-1220491_1280.jpg?w=712"
 ---
