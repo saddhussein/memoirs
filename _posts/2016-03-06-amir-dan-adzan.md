@@ -2,7 +2,7 @@
 layout: post
 title:  "Amir dan Adzan Isya"
 author: sal
-categories: [ Cerita ]
+categories: [ Pikiran ]
 tags: [ Cerita Amir ]
 image: "https://cdn.hashnode.com/res/hashnode/image/upload/v1684090165685/290ff5f0-979b-48a4-be4f-dcac09883859.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp"
 ---
